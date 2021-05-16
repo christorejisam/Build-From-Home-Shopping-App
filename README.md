@@ -1,5 +1,7 @@
 # 🛒Shopping App -- Using Flutter & Dart  👨🏽‍💻 {/Build-From-Home 🏠}
 
+## App Name :- 
+
 It is a a simple fashion shopping app with flutter. User should able to navigate through categories and find the item. 
 
 
