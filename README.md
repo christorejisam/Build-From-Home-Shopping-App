@@ -2,6 +2,7 @@
 
 ## App Name :- 
 
+# About the project
 It is a a simple fashion shopping app with flutter. User should able to navigate through categories and find the item. 
 
 
@@ -22,7 +23,7 @@ It is a a simple fashion shopping app with flutter. User should able to navigate
   - Users should see a detail screen with product image, description and price with an option to buy or bookmark
   - A profile screen with bookmarks and purchases.
 
-## 📷 Photos : 
+## 📷 Interface of the application :
   - Loading.........
 
 
