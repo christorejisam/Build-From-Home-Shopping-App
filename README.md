@@ -27,7 +27,7 @@ It is a a simple fashion shopping app with flutter. User should able to navigate
 
 ## 📷 Interface of the application :
   - Loading.........
-
+![Preview](/pic1.png)
 
 📝**Packages we are using:**
 
