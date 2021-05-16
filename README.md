@@ -1,8 +1,8 @@
 # 🛒Shopping App -- Using Flutter & Dart  👨🏽‍💻 {/Build-From-Home 🏠}
 
  - Group Id :- BFH/rec8XleuXxRgCZ7Zp/2021.
- - Group Name :- Horizon
- - App Name :- 
+ - Group Name :- Shadow
+ - App Name :- Horizon Shopping App
 
 # About the project
 It is a a simple fashion shopping app with flutter. User should able to navigate through categories and find the item. 
