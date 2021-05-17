@@ -18,21 +18,21 @@ class DiscountBanner extends StatelessWidget {
         vertical: getProportionateScreenWidth(15),
       ),
       decoration: BoxDecoration(
-        color: Color(0xFF4A3298),
-        borderRadius: BorderRadius.circular(20),
+        color: Color(0xFFF50057),
+        borderRadius: BorderRadius.circular(25),
       ),
       child: Text.rich(
         TextSpan(
           style: TextStyle(color: Colors.white),
           children: [
-            TextSpan(text: "A Summer Surpise\n"),
             TextSpan(
-              text: "Cashback 20%",
+              text: "DELIVERING ESSENTIALS ONLY !!  ",
               style: TextStyle(
-                fontSize: getProportionateScreenWidth(24),
+                fontSize: getProportionateScreenWidth(17),
                 fontWeight: FontWeight.bold,
               ),
             ),
+            TextSpan(text: "In light of the latest government notification, we are tacking orders for essential prodects only. Delivary may take longer than normal\n"),
           ],
         ),
       ),

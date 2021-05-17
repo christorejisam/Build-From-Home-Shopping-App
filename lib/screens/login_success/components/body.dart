@@ -17,14 +17,14 @@ class Body extends StatelessWidget {
         Text(
           "Login Success",
           style: TextStyle(
-            fontSize: getProportionateScreenWidth(30),
+            fontSize: getProportionateScreenWidth(25),
             fontWeight: FontWeight.bold,
             color: Colors.black,
           ),
         ),
         Spacer(),
         SizedBox(
-          width: SizeConfig.screenWidth * 0.6,
+          width: SizeConfig.screenWidth * 0.9,
           child: DefaultButton(
             text: "Back to home",
             press: () {
