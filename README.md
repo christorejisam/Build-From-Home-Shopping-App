@@ -30,7 +30,7 @@ It is a a simple fashion shopping app with flutter. User should able to navigate
 ![Preview](/pic1.png)
 
 📝**Packages we are using:**
-
+- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
   - Updating.......
 
 ## 👽 Getting Started
