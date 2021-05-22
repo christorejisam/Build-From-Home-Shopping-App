@@ -29,9 +29,18 @@ It is a a simple fashion shopping app with flutter. User should able to navigate
   - Loading.........
 ![Preview](/pic1.png)
 
-📝**Packages we are using:**
+
+🎨 **Colours Used:**
+- Colour_class: [link](https://api.flutter.dev/flutter/material/Colors-class.html)
+
+
+📝 **Packages we are using:**
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
+  
+  
   - Updating.......
+
+
 
 ## 👽 Getting Started
 
