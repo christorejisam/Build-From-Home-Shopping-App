@@ -33,14 +33,6 @@ class Body extends StatelessWidget {
                       icon: "assets/icons/google-icon.svg",
                       press: () {},
                     ),
-                    SocalCard(
-                      icon: "assets/icons/facebook-2.svg",
-                      press: () {},
-                    ),
-                    SocalCard(
-                      icon: "assets/icons/twitter.svg",
-                      press: () {},
-                    ),
                   ],
                 ),
                 SizedBox(height: getProportionateScreenHeight(20)),

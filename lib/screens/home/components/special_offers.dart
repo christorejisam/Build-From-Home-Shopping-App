@@ -26,15 +26,21 @@ class SpecialOffers extends StatelessWidget {
           child: Row(
             children: [
               SpecialOfferCard(
-                image: "assets/images/Image Banner 2.png",
-                category: "Smartphone",
-                numOfBrands: 18,
+                image: "assets/images/banner1.png",
+                category: "",
+                numOfBrands: 5,
                 press: () {},
               ),
               SpecialOfferCard(
-                image: "assets/images/Image Banner 3.png",
-                category: "Fashion",
-                numOfBrands: 24,
+                image: "assets/images/banner3.png",
+                category: "",
+                numOfBrands: 5,
+                press: () {},
+              ),
+              SpecialOfferCard(
+                image: "assets/images/banner2.png",
+                category: "",
+                numOfBrands: 10,
                 press: () {},
               ),
               SizedBox(width: getProportionateScreenWidth(20)),
@@ -66,8 +72,8 @@ class SpecialOfferCard extends StatelessWidget {
       child: GestureDetector(
         onTap: press,
         child: SizedBox(
-          width: getProportionateScreenWidth(242),
-          height: getProportionateScreenWidth(100),
+          width: getProportionateScreenWidth(300),
+          height: getProportionateScreenWidth(200),
           child: ClipRRect(
             borderRadius: BorderRadius.circular(20),
             child: Stack(
@@ -91,7 +97,7 @@ class SpecialOfferCard extends StatelessWidget {
                 Padding(
                   padding: EdgeInsets.symmetric(
                     horizontal: getProportionateScreenWidth(15.0),
-                    vertical: getProportionateScreenWidth(10),
+                    vertical: getProportionateScreenWidth(20),
                   ),
                   child: Text.rich(
                     TextSpan(
@@ -104,7 +110,7 @@ class SpecialOfferCard extends StatelessWidget {
                             fontWeight: FontWeight.bold,
                           ),
                         ),
-                        TextSpan(text: "$numOfBrands Brands")
+                        TextSpan(text: "$numOfBrands Days remaining")
                       ],
                     ),
                   ),
