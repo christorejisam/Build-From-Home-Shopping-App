@@ -21,7 +21,7 @@ It is a a simple fashion shopping app with flutter. User should able to navigate
  - Authentication (Login/Logout, Register) , otp verification
  - HomePage (List all product, filter),
  - Product details (Show product details),30 items 
- - Add to Cart (Cart Page),
+ - Add to Cart (Cart Page),(Remove*)
  - Add to Wishlist (Wishlist page),
  - Shipping method (UI),
  - Confirm Orders (UI),(confirm without payment)
