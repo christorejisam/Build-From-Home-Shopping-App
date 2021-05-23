@@ -45,6 +45,14 @@ It is a a simple fashion shopping app with flutter. User should able to navigate
  - Any IDE with flutter SDK installed (ie Android Studio , Vscode etc)
  - Knowledge of Dart , flutter , firebase.
 
+## Installation 
+To make ths project works, you need to have flutter SDK installed. [***Install Flutter***](https://flutter.dev/docs/get-started/install)
+1. Clone locally the repository
+2. Go to app directory and run `flutter pub get` 
+3. And then run `flutter run` 
+4. Now you can bring your desired change to app.  
+5. Feel Free to contribute and make PRs. 
+
 🎨 **Colours Used:**
 - Colour_class: [link](https://api.flutter.dev/flutter/material/Colors-class.html)
 
