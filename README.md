@@ -40,6 +40,10 @@ It is a a simple fashion shopping app with flutter. User should able to navigate
 
 ![Preview](/photo.jpg)
 
+## ❗️ Requirements :
+ - Any Operating System (ie MacOS,Linux, Windows)
+ - Any IDE with flutter SDK installed (ie Android Studio , Vscode etc)
+ - Knowledge of Dart , flutter , firebase.
 
 🎨 **Colours Used:**
 - Colour_class: [link](https://api.flutter.dev/flutter/material/Colors-class.html)
