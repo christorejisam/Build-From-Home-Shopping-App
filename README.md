@@ -48,7 +48,9 @@ It is a a simple fashion shopping app with flutter. User should able to navigate
 📝 **Packages we are using:**
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
 - Pub.dev (extras) : [link](https://pub.dev/)
-
+- firebase_auth
+- flutter_icons
+- razorpay_flutter
 
 
 ## 👽 Getting Started
