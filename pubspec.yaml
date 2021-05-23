@@ -36,7 +36,9 @@ dev_dependencies:
     sdk: flutter
   firebase_core: "^0.7.0"
   firebase_auth: "^0.20.1"
-
+  razorpay_flutter: ^1.2.3
+  toast: ^0.1.5
+  
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
