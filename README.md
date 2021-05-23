@@ -1,8 +1,13 @@
 # 🛒Shopping App -- Using Flutter & Dart  👨🏽‍💻 {/Build-From-Home 🏠}
 
+![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
+
  - Group Id :- BFH/rec8XleuXxRgCZ7Zp/2021.
  - Group Name :- Shadow
  - App Name :- Horizon Shopping App
+
+## Team members
+1. Christo Reji Sam [https://github.com/christorejisam]
 
 # About the project
 It is a a simple fashion shopping app with flutter. User should able to navigate through categories and find the item. 
@@ -26,8 +31,8 @@ It is a a simple fashion shopping app with flutter. User should able to navigate
   - A profile screen with bookmarks and purchases.
 
 ## 📷 Interface of the application :
-  - Loading.........
-![Preview](/pic1.png)
+
+![Preview](/photo.jpg)
 
 
 🎨 **Colours Used:**
@@ -36,9 +41,7 @@ It is a a simple fashion shopping app with flutter. User should able to navigate
 
 📝 **Packages we are using:**
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
-  
-  
-  - Updating.......
+- Pub.dev (extras) : [link](https://pub.dev/)
 
 
 
