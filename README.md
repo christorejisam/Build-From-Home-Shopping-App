@@ -18,10 +18,15 @@ It is a a simple fashion shopping app with flutter. User should able to navigate
 
 ## 💖 Our project contains:
 
- - Create a dummy merchant with at-least 30 items 
- - User login (OTP VERIFICATION)
- - Book mark (CART)
- - Place an order (confirm without payment)
+ - Authentication (Login/Logout, Register) , otp verification
+ - HomePage (List all product, filter),
+ - Product details (Show product details),30 items 
+ - Add to Cart (Cart Page),
+ - Add to Wishlist (Wishlist page),
+ - Shipping method (UI),
+ - Confirm Orders (UI),(confirm without payment)
+ - Change Credit Card Payment (UI),
+ - Profile (UI),
 
 ## 🌍 Possible users journey :
 
