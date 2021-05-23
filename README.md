@@ -8,6 +8,7 @@
 
 ## Team members
 1. Christo Reji Sam [https://github.com/christorejisam]
+2. Rejeesh R [https://github.com/Rejeesh2001]
 
 # About the project
 It is a a simple fashion shopping app with flutter. User should able to navigate through categories and find the item. 
@@ -18,8 +19,8 @@ It is a a simple fashion shopping app with flutter. User should able to navigate
 ## 💖 Our project contains:
 
  - Create a dummy merchant with at-least 30 items 
- - User login
- - Book mark
+ - User login (OTP VERIFICATION)
+ - Book mark (CART)
  - Place an order (confirm without payment)
 
 ## 🌍 Possible users journey :
