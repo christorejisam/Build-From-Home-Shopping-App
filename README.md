@@ -70,5 +70,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## ⭐️ Star the repo if you like what you see ⭐️
+
 
 ## Special Thanks to TinkerHub <\Build From Home> , Thanks for your love and support✨.
