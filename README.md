@@ -13,7 +13,6 @@
 # About the project
 It is a a simple fashion shopping app with flutter. User should able to navigate through categories and find the item. 
 
-
 <img align = "right" alt="png" src="https://startupmission.kerala.gov.in/get-image-view/ksum_community/picture_779_1446122711.png" width="" height="190" />
 
 ## 💖 Our project contains:
@@ -77,6 +76,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+***Imp: Uploading files....***
+
 
 ## ⭐️ Star the repo if you like It would be highly appreciated ⭐️
 
