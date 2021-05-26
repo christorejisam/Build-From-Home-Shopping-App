@@ -7,8 +7,8 @@
  - App Name :- Horizon Shopping App
 
 ## Team members
-1. Christo Reji Sam [https://github.com/christorejisam]
-2. Rejeesh R [https://github.com/Rejeesh2001]
+1. [Christo Reji Sam](https://github.com/christorejisam)
+2. [Rejeesh R](https://github.com/Rejeesh2001)
 
 # About the project
 It is a a simple fashion shopping app with flutter. User should able to navigate through categories and find the item. 
