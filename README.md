@@ -81,7 +81,4 @@ samples, guidance on mobile development, and a full API reference.
 ***Imp: Uploading files....***
 
 
-## ⭐️ Star the repo if you like It would be highly appreciated ⭐️
-
-
 ## Special Thanks to TinkerHub <\Build From Home> , Thanks for your love and support✨.
